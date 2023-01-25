@@ -94,8 +94,8 @@ body{
 }
 .wrapper.active .upload-box img{
     width:100%;
-    width:100%;
-    object-fit:cover;
+    height:100%;
+    object-fit:fit;
     border-radius:5px;
 }
 .wrapper.active .upload-box p{
